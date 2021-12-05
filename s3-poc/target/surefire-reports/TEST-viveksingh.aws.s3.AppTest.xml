@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="viveksingh.aws.s3.AppTest" time="0.005" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.12+7-LTS"/>
+    <property name="sun.boot.library.path" value="D:\WorkSpaces\DevTools\Java\jdk11.0.12_7\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\WorkSpaces\workspace3.0\Non-Git-local-projects\aws-api-pocs\s3-poc"/>
+    <property name="java.vm.vendor" value="Amazon.com Inc."/>
+    <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\WorkSpaces\workspace3.0\Non-Git-local-projects\aws-api-pocs\s3-poc"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="11.0.12+7-LTS"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\vivek\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="D:\WorkSpaces\workspace3.0\Non-Git-local-projects\aws-api-pocs\sts-wspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf13479021957204831759.tmp"/>
+    <property name="jansi.force" value="true"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="D:\WorkSpaces\DevTools\Java\jdk11.0.12_7\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:/WorkSpaces/DevTools/Java/jdk11.0.12_7/bin/server;D:/WorkSpaces/DevTools/Java/jdk11.0.12_7/bin;D:\WorkSpaces\DevTools\Java\jdk11.0.12_7\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Oracle\VirtualBox;D:\WorkSpaces\DevTools\db-derby-10.14.2.0-bin\bin;D:\WorkSpaces\DevTools\apache-maven-3.6.3\bin;D:\WorkSpaces\DevTools\apache-ant-1.8.0\bin;D:\WorkSpaces\DevTools\gradle-6.0.1\bin;D:\WorkSpaces\DevTools\jd-gui-1.4.0;D:\WorkSpaces\DevTools\node8;D:\WorkSpaces\DevTools\python\Python39;D:\WorkSpaces\DevTools\python\Python39\Scripts;D:\Documents\Control\Batch;D:\Documents\Control\Developement;D:\Documents\Control\Documents;D:\Documents\Control\LinuxCommands;D:\Documents\Control\MyApps;D:\Documents\Control\Programs;D:\WorkSpaces\00.UserApps\youtube-dl;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\WorkSpaces\00.UserApps\aria2-1.35;C:\Users\vivek\AppData\Local\Microsoft\WindowsApps;C:\Users\vivek\AppData\Local\GitHubDesktop\bin;D:\WorkSpaces\IDEs\sts-4.12.0.RELEASE;;."/>
+    <property name="jansi.passthrough" value="true"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\vivek"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="vivek"/>
+    <property name="java.class.path" value="D:\WorkSpaces\IDEs\sts-4.12.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_1.18.0.20210618-2246\jars\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B install -Dstyle.color=always"/>
+    <property name="java.home" value="D:\WorkSpaces\DevTools\Java\jdk11.0.12_7"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.12"/>
+    <property name="java.vendor" value="Amazon.com Inc."/>
+    <property name="maven.home" value="D:\WorkSpaces\workspace3.0\Non-Git-local-projects\aws-api-pocs\s3-poc\EMBEDDED"/>
+    <property name="style.color" value="always"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2021-07-20"/>
+    <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-11/issues/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="Corretto-11.0.12.7.1"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="viveksingh.aws.s3.AppTest" name="testApp" time="0.005"/>
+</testsuite>
